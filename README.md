@@ -83,7 +83,7 @@
 - Examples:
   - predicted 0 and got 0: 20 points
   - predicted 1 and got 1: 20 + 10 = 30 points
-  - predicted 2 and got 3: 20 + 30 = 50 points
+  - predicted 3 and got 3: 20 + 30 = 50 points
   - predicted 7 and got 6: -10 points
   - predicted 5 and got 6: -10 points
 
