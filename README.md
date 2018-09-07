@@ -40,8 +40,8 @@
 
 ## Distributing and prediction
 
-- Person to the left of the giver predicts first and will start first
-- Giver announces as last and will be the last to play in the first trick
+- Person to the left of the dealer predicts first and will start first
+- Dealer announces as last and will be the last to play in the first trick
 - Number of prediction must not sum up to the number of cards (to avoid that everybody is correct)
 - ... except that the last person is always allowed to predict zero - this means
   that it is possible that everybody predicts correctly
@@ -53,7 +53,7 @@
 - When distributing cards the remaining cards are placed hidden in a deck and the first card
   of the remaining deck is turned which determines the trump color
 - If the card turned around is N, there is no trump in this round
-- If the card turned around is Z, the trump color is set by the giver (but the giver still announces
+- If the card turned around is Z, the trump color is set by the dealer (but the dealer still announces
   number of tricks last)
 - In the last round there is no trump since there is no card left - all cards are on the table
 
